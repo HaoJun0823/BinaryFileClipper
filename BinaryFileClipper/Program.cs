@@ -15,7 +15,7 @@ namespace BinaryFileClipper
         static void Main(string[] args)
         {
             Console.WriteLine("BinaryFileClipper 1.0.0.0 by Randerion(HaoJun0823) https://www.haojun0823.xyz/");
-            Console.WriteLine("© Copyright 2025 Randerion(HaoJun0823) Licensed By Apache 2.0");
+            Console.WriteLine("Copyright 2025 Randerion(HaoJun0823) Licensed By Apache 2.0");
             Console.WriteLine("This tool can cut out a specific part of a file and save it.");
             Console.WriteLine("Github:https://github.com/haojun0823/BinaryFileClipper");
             if (args.Length != 4)
